@@ -3,8 +3,8 @@ Programa que ejecuta diversas acciones de acuerdo a la tarea 8
 -Hola 1 al 10 con ciclo for
 -Tabla del 3 con ciclo for
 -Tabla de N a M con scanf y for anidado
--Cuadro de símbolos con ciclo for anidado
--Cuadrado  vacío de  símbolos  +
+-Cuadro de sÃ­mbolos con ciclo for anidado
+-Cuadrado  vacÃ­o de  sÃ­mbolos  +
 */
 
 #include <stdio.h>
@@ -24,7 +24,7 @@ int main(int argc, char *argv[]) {
 	int C=0;
 	int R=0;
 	
-	printf("\n\Martignon Luna Jonathan Jose\nFES Aragon\nGrupo 1159\n\n");  /*Presentacion*/
+	printf("\nMartignon Luna Jonathan Jose\nFES Aragon\nGrupo 1159\n\n");  /*Presentacion*/
 	printf("\n\tBienvenido al menu de la Tarea 8\n\n");
 	printf(" 1)Hola del 1 al 10 con ciclo for\n 2)Tabla del 3 con ciclo for\n 3)Tabla de N a M con scanf y for anidado\n");
 	printf(" 4)Cuadro de simbolos con ciclo for anidado\n 5)Cuadrado  vacio de  simbolos  +\n\n");
